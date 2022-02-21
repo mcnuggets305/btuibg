@@ -12,7 +12,7 @@ open 3 files
 
 
 put "html" into index.html
-put "java to run the code" into index.js
+put "java for the math" into index.js
 put "grid of the calculator" into styels.css
 
 
